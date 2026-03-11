@@ -4,6 +4,10 @@
 
 **Layer Count: 2-layer PCB**
 
+**Board Size: 32mm x 32mm (1.26" x 1.26")**
+
+The board outline (Eagle Layer 20 - Dimension) defines a square from (0,0) to (32,32) mm.
+
 ### Copper Layers
 
 | Layer | Name   | Status |
